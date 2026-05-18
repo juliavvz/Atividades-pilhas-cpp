@@ -46,12 +46,11 @@ markdown
 ## Exemplo de Entrada/Saída
 
 **Entrada:**
-Digite o 1º número: 5
-Digite o 2º número (maior que 5): 10
-Digite o 3º número (maior que 10): 15
+- Digite o 1º número: 5
+- Digite o 2º número (maior que 5): 10
+- Digite o 3º número (maior que 10): 15
 ...
 
-text
 
 **Saída:**
 === Números Pares (ordem decrescente) ===
