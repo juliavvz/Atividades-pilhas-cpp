@@ -42,22 +42,23 @@ g++ ex1.cpp -o ex1.exe
 # Executar
 ./ex1.exe
 ```
-### Exemplo de Entrada/Saída
-Entrada:
+markdown
+## Exemplo de Entrada/Saída
 
+**Entrada:**
 Digite o 1º número: 5
 Digite o 2º número (maior que 5): 10
 Digite o 3º número (maior que 10): 15
 ...
 
-Saída:
+text
 
+**Saída:**
 === Números Pares (ordem decrescente) ===
 30 28 26 24 22 20 18 16 14 12 10 8 6 4 2
 
 === Números Ímpares (ordem decrescente) ===
 29 27 25 23 21 19 17 15 13 11 9 7 5 3 1
-
 
 ### Regras do Programa
 - O programa solicita 30 números
