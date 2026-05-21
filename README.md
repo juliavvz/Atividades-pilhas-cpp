@@ -23,7 +23,7 @@ Ao final, os valores são exibidos em ordem decrescente utilizando o conceito de
 ## 📂 Estrutura do projeto
 
 ```text
-Atividade-Pilhas/
+Atividade-pilhas-cpp/
 ├── src/
 │   ├── Exercicio1.cpp
 │   └── Exercicio2.cpp
