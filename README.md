@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📚 Exercícios de Pilha em C++
 
 ## 📌 Descrição
@@ -213,4 +212,3 @@ markdown
 
 ### Licença
 Este projeto é livre para uso educacional.
->>>>>>> 7dc3ec452db7d1ff6492f87113c9117b4ac6ace3
